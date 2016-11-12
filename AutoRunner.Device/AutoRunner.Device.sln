@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoRunner.Device", "AutoRunner.Device.csproj", "{CD9769D5-ACC7-430E-82F4-689B78A33706}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoRunner.Test", "..\AutoRunner.Test\AutoRunner.Test.csproj", "{3A8A8EC9-8474-499B-9E25-40C71E595660}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD9769D5-ACC7-430E-82F4-689B78A33706}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD9769D5-ACC7-430E-82F4-689B78A33706}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD9769D5-ACC7-430E-82F4-689B78A33706}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD9769D5-ACC7-430E-82F4-689B78A33706}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A8A8EC9-8474-499B-9E25-40C71E595660}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A8A8EC9-8474-499B-9E25-40C71E595660}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A8A8EC9-8474-499B-9E25-40C71E595660}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A8A8EC9-8474-499B-9E25-40C71E595660}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
